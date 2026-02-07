@@ -1,4 +1,4 @@
-## Hi I’m @bunnyokudev 🌸
+## Hi I’m @proxyoku 🌸
 - 👀 I’m interested in ... making meaningful projects!<br>
 - 🌱 I’m currently learning ... Linux<br>
 - 💞️ I’m looking to collaborate on ... something creative and cool!<br>
@@ -15,7 +15,4 @@
 [![](https://visitcount.itsvg.in/api?id=bunnyokudev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---
-bunnyokudev/bunnyokudev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
